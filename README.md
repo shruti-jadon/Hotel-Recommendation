@@ -1,5 +1,7 @@
 # Hotel-Recommendation
 
+## Challenge: Given Input (User's Features, Hotel's Features, User's Activity) Predict User's Future Hotel Choices, which are not present in past choices.
+
 To Run Code: Run Jupyter notebook, and open Model.ipynb file. 
 
 It consists of code, documentation, and explanation. Requirements: Python 2.7 and above, Scikit-Learn, Ipython, XGBoost, Numpy, csv, Pandas. Results is in output.csv, consisting of user's next prediction, and in output2.csv is user's next up to 5 predictions.
